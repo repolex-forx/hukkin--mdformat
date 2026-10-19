@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hukkin/mdformat/commit/56b24ef0c6cfdab501844925971204f858185547",
       "git:hexsha": "56b24ef0c6cfdab501844925971204f858185547",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hukkin/mdformat/commit/a6480910b83296c1a0f4cd58fad2c871493f894e",
